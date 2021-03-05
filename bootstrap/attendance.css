@@ -1,0 +1,17 @@
+body{
+    color: coral;
+    align-items: center;
+    background-color: cornsilk;
+}
+#login{
+    color: blue;
+}
+#payment{
+    color: blue;
+    margin-left: 400px;
+    margin-top: 40px;
+}
+.heading{
+    color: goldenrod;
+    text-align: center;
+}
